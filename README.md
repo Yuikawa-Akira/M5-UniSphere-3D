@@ -52,5 +52,6 @@ const int TEX_HEIGHT = 32;
 
 ## Credits
 ### This software includes code and logic derived from:
+
 * **3D_Sphere_Pong_Wars by K-Yama2010
-*Copyright (c) 2025 K-Yama2010
+    * Copyright (c) 2025 K-Yama2010
