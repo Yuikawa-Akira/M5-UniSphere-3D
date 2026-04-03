@@ -7,7 +7,7 @@ Efficient 3D UV Sphere rendering with texture mapping for M5Stack devices, power
 
 ## Overview
 
-**M5-UniSphere-3D** is a lightweight 3D graphics engine specifically optimized for M5Stack. It generates a UV Sphere and maps a dynamic `M5Canvas` texture onto its surface. 
+**M5-UniSphere-3D** generates a UV Sphere and maps a dynamic `M5Canvas` texture onto its surface. 
 
 This project demonstrates 3D coordinate transformation, Z-sorting, and back-face culling on resource-constrained microcontrollers.
 
