@@ -48,3 +48,9 @@ const int GRID_SIZE = 32;       // Higher = Smoother sphere, lower = Higher FPS
 const float SPHERE_RADIUS = 100.0f; 
 const int TEX_WIDTH = 64;       // Texture resolution
 const int TEX_HEIGHT = 32;
+```
+
+## Credits
+### This software includes code and logic derived from:
+#### 3D_Sphere_Pong_Wars by K-Yama2010
+#### Copyright (c) 2025 K-Yama2010
