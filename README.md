@@ -17,8 +17,6 @@ This project demonstrates 3D coordinate transformation, Z-sorting, and back-face
 * **Texture Mapping:** Maps an `M5Canvas` (texture) onto the 3D sphere surface.
 * **Real-time Rendering:** Includes rotation, projection, and optimized drawing loops.
 * **Performance Optimization:** * Back-face culling to skip hidden polygons.
-    * Z-order sorting for correct transparency and layering.
-    * Memory reservation for work areas to minimize allocation overhead.
 * **Hardware Agnostic:** Uses `M5Unified` to support various M5Stack hardware (CoreS3, Core2, Basic, etc.).
 
 ## Demo
