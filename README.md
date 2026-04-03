@@ -1,5 +1,7 @@
 # M5-UniSphere-3D
 
+[日本語](https://github.com/Yuikawa-Akira/M5-UniSphere-3D/blob/main/README.ja.md)
+
 Efficient 3D UV Sphere rendering with texture mapping for M5Stack devices, powered by `M5Unified`.
 
 ![License](https://img.shields.io/github/license/Yuikawa-Akira/M5-UniSphere-3D)
