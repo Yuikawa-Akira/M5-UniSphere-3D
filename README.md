@@ -23,7 +23,7 @@ This project demonstrates 3D coordinate transformation, Z-sorting, and back-face
 
 ## Demo
 | Wireframe/Solid | Texture Mapping |
-| *(![M5-UniSphere-3D_001.gif](https://github.com/Yuikawa-Akira/M5-UniSphere-3D/blob/main/M5-UniSphere-3D_001.gif))* | *(Add GIF/Image here)* |
+| ![M5-UniSphere-3D_001.gif](https://github.com/Yuikawa-Akira/M5-UniSphere-3D/blob/main/M5-UniSphere-3D_001.gif) | *(Add GIF/Image here)* |
 
 
 
