@@ -22,7 +22,10 @@ This project demonstrates 3D coordinate transformation, Z-sorting, and back-face
 * **Hardware Agnostic:** Uses `M5Unified` to support various M5Stack hardware (CoreS3, Core2, Basic, etc.).
 
 ## Demo
-![M5-UniSphere-3D_001.gif](https://github.com/Yuikawa-Akira/M5-UniSphere-3D/blob/main/M5-UniSphere-3D_001.gif)
+| Wireframe/Solid | Texture Mapping |
+| *(![M5-UniSphere-3D_001.gif](https://github.com/Yuikawa-Akira/M5-UniSphere-3D/blob/main/M5-UniSphere-3D_001.gif))* | *(Add GIF/Image here)* |
+
+
 
 ## Requirements
 
